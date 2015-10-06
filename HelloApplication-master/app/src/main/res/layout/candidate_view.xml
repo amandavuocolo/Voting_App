@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/candidateName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eirik Grieve"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/candidateParty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="*Party*"
+        android:textSize="35dp"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/candidateVotes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="*Votes*"
+        android:textSize="35dp" />
+</LinearLayout>

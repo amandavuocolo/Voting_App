@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Presidential Poll</string>
+
+    <string name="candidate1_text">Eirik Grieve</string>
+    <string name="candidate2_text">Jehosephat Armonni</string>
+    <string name="candidate3_text">Reinier Samson</string>
+    <string name="candidate4_text">Socrates Hayden</string>
+
+    <string name="vote_instructions">Vote for you candidate</string>
+    <string name="results_text">Results</string>
+    <string name="retrieve_text">Get text!</string>
+    <string name="action_settings">Settings</string>
+</resources>
